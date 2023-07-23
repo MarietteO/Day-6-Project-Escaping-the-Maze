@@ -1,6 +1,5 @@
 def turn_right():
-    turn_left()
-    turn_left()
+    for _ in range(3):
     turn_left()
 
 
