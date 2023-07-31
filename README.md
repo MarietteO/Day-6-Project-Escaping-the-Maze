@@ -7,7 +7,7 @@ Write a program using an if/elif/else statement so Reeborg can find the exit. Th
 Commands available: move(), turn_left() # (isright() is not available, so has to be created)<br>
 Conditions available: at_goal(), front_is_clear(), right_is_clear(), wall_in_front(), wall_on_right(), is_facing_north()<br>
 <br>
-<b>Skills practised</b><br>
-Defining and calling functions<br>
-Indentation<br>
+<b>Skills and concepts</b><br>
+Defining and calling Python functions<br>
+Indentation in Python<br>
 While loops
